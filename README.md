@@ -138,7 +138,7 @@ Relevant coursework: Data Structures · Algorithms · Calculus III · Physics II
 
 [![GitHub](https://img.shields.io/badge/GitHub-Miguel--Rojas15-181717?style=for-the-badge&logo=github)](https://github.com/Miguel-Rojas15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/miguel-rojas15)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelsrojasc@gmail.com)
 
 </div>
 
